@@ -1,0 +1,1 @@
+- The best explanation I have found of APRS routing is in the [direwolf user guide](https://github.com/wb2osz/direwolf/blob/master/doc/User-Guide.pdf)

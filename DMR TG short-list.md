@@ -1,0 +1,25 @@
+- [[BrandMeister]]
+    - [[BM2062]] - Belgique francophone
+    - [[BM208]] - France entière
+    - [[BM2083]] - Region Nort-est
+    - [[BM20844]] - France
+    - [[BM20800]] - YSF France
+    - [[BM2084]] - France Sud-Est
+    - [[BM2089]] - Dom Tom
+    - [[BM2281]] - Suisse francophone
+    - [[BM30299]] - Flexradio
+    - [[BM270]] - Luxembourg
+    - [[BM2701]] - XLX270-A
+    - [[BM27062]] - XLX270-B
+    - [[BM27063]] - XLX270-J JOTA
+    - [[BM2706]] - XLX270-R
+    - [[BM2707]] - LX [[LARU]]
+    - [[BM27079]] - LX [[LARU]] [[EMCOMM]]
+    - [[BM2709112]] - [[EMCOMM]] EU
+    - [[BM20602]] - YSF-Wallonie
+    - [[BM3027]] - Canada francophone
+    - [[BM937]] - Universel francophone
+    - Echo test - private call to ID 9990
+- [[FreeDMR]]
+    - http://51.68.226.67:8082/
+    - 

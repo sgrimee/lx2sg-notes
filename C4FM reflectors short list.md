@@ -1,0 +1,10 @@
+- [[FR-YSF-France]]
+    - YSF-ID 58617
+    - Sysop [[H1PTL]]
+    - Bridged to [[BM20800]]
+- [[YSF-Wallonie]]
+    - http://www.ysfwallonie.net/
+    - Bridged to [[BM20602]]
+- [[Belgium-fr]]
+    - http://51.75.249.214/ysf/
+    - 

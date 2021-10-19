@@ -1,0 +1,14 @@
+- Control pi-star from the HT
+    - [[DMR]]
+        - svckill=9999999
+        - svcrestart=9999998
+        - reboot=9999997
+        - shutdown=9999996
+    - [[D-STAR]] UR fields
+        - svckill: SVCKILL
+        - svcrestart: SVCRSTRT
+        - reboot: REBOOTPI
+        - shutdown: SHUTDOWN
+        - getip: GETIP
+        - hostfiles: HOSTFILE
+        - 8Ball: 8BALL

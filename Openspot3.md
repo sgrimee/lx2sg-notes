@@ -1,0 +1,19 @@
+- Control openspot3 from the HT
+    - [[DMR]]
+        - 9000 - profile query / change base ID
+        - 9998 - connector query ID
+        - 9997 - IP address query ID
+        - 9996 - battery status query ID
+        - 9995 - time query ID
+    - [[D-STAR]]
+        - 9000 - profile query / change base ID
+        - 9998 - connector query ID
+        - .......I - Connector query callsign or DTMF D
+        - 9997 - IP address query ID
+        - .......A - IP address query callsign or DTMF B
+        - 9996 - battery status query ID
+        - .......B - battery status query callsign or DTMF C
+        - 9995 - time query ID
+        - .......T - time query callsign or DTMF CD
+        - .......X - where X is digit 1-5, change to profile X
+        - 

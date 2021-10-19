@@ -1,0 +1,15 @@
+- Digital modulation used by [[Yaesu]] radios
+- Lists of reflectors
+    - [[YSF]] reflectors: https://register.ysfreflector.de/
+    - [[FCS]] reflectors: http://xreflector.net/
+    - [[C4FM reflectors short list]]
+- [[YCS]] server 
+- [[FCS]] vs [[YSF]]
+    - quote from [[SharkRF]] [forum](https://forum.sharkrf.com/viewtopic.php?t=1750) 
+        - They are not networks really, they are servers. There are 5 FCS servers (FCS001, FCS002 etc.), and several YSFreflector servers (list available at https://register.ysfreflector.de/). Both FCS and YSFreflector servers use different protocols to communicate with connected clients.
+        - The main difference between them is that FCS servers handle rooms numbered from 0 to 99 and you can select which room you want to use during connecting to the server. YSFreflector servers do not have rooms.
+    - quote from [[pi-star]] [forum](https://forum.pistar.uk/viewtopic.php?t=2963)
+        - YSF reflectors are usually put up by individuals, or groups for a specific use case. Either to host a local group or to bridge into a yaesu room to grow the amount of users that can partake by linking from hotspots.
+        - FCS is a server based solution created originally by the DL team that brought you the dv4 line of products as a connection point for their specific product users. Although the dv4 product line seems to be dead in the water the FCS was opened up to other developers for inclusion with their hardware.
+        - Both host specific group use, general use and bridged use.
+- [[K0RQ]] [article](https://k0rq.com/wires-x-vs-ysf-vs-fcs) on  [[WIRES-X]] vs. [[YSF]] vs. [[FCS]]

@@ -1,0 +1,3 @@
+- https://github.com/rogerclarkmelbourne/OpenGD77
+    - Open source firmware for the Radioddity GD-77 (aka TYT MD-760), GD-77S, Baofeng DM-1801 (aka DM-860) and Baofeng RD-5R (DM-5R mk2), dual band DMR / FM handheld transceivers, for Amateur Radio use.
+- I also want to try [[OpenRTX]]

@@ -1,0 +1,31 @@
+- {{table}}
+    - Reflector
+        - Description
+            - Dashboard
+    - REF001C
+        - International
+    - REF014C
+        - US West
+    - REF028B
+        - Belgique francophone
+    - REF030C
+        - US East
+            - http://ref030.dstargateway.org/
+    - REF084A,B,C
+        - France
+            - http://ref084.dstargateway.org/
+    - XLX049D
+        - QuadNet Northern Ireland
+    - XLX208
+        - France
+            - https://xlx208.f5kav.fr/
+    - XLX210
+        - Belgium
+            - http://op0p.no-ip.org/xlx/
+    - XLX933
+        - [France](http://www.dstar-france.fr/les-relais-d-star/reflecteurs/comment-fonctionne-le-xlx933/)
+            - http://dcs033.xreflector.net/index.php
+- XRF270B
+    - Radioamateurs Luxembourg
+        - https://xlx270.epf.lu/
+- 

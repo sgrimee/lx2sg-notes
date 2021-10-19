@@ -1,0 +1,12 @@
+- Réseau des Répéteurs Francophones
+- http://rrf.f5nlg.ovh/
+- Points d'acces
+    - LX2OOO V, 145.2875 MHz Tone 103.5 Hz
+- URL streaming
+    - http://rrf.f5nlg.ovh/audiostream/RRF
+    - http://rrf.f5nlg.ovh/audiostream/technique
+    - http://rrf.f5nlg.ovh/audiostream/international
+    - http://rrf.f5nlg.ovh/audiostream/bavardage
+    - http://rrf.f5nlg.ovh/audiostream/local
+    - http://rrf.f5nlg.ovh/audiostream/experimental
+    - http://rrf.f5nlg.ovh/audiostream/FON

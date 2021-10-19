@@ -1,0 +1,7 @@
+- https://github.com/OpenRTX/OpenRTX
+    - OpenRTX is a free and open source firmware for digital ham radios, top-down designed with modularity, flexibility and performance in mind.
+    - Currently OpenRTX is being actively developed for the following radios:
+        - TYT MD-380/390
+        - TYT MD-UV380/390
+        - TYT MD-9600
+        - Radioddity GD77

@@ -1,0 +1,5 @@
+- pi-star [list](https://www.pistar.uk/dmr_bm_talkgroups.php) of [[BrandMeister]] talkgroups
+- [[DMR TG short-list]]
+- pi-star [list](https://www.pistar.uk/dmr_bm_talkgroups.php) of [[BrandMeister]] talk groups
+- [France talkgroup list](https://wiki.brandmeister.network/index.php/France)
+- 

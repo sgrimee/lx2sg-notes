@@ -1,0 +1,20 @@
+- Guides
+    - [Newbies guide to d-star](https://www.la1b.no/wp-content/uploads/2016/12/Newbies-Guide-to-D-Star-V2.0.pdf)
+    - [[D-STAR reflectors short-list]]
+    - Terminal modes
+        - https://forums.qrz.com/index.php?threads/icom-terminal-modes-start-guide.739932/
+            - http://www.dstarinfo.com/Reflectors.aspx
+            - http://www.pa7lim.nl/doozy/
+            - https://www.k6jm.com/wp/d-star-terminal-mode-reflector-linking-for-newest-radios/
+            - https://www.k6jm.com/wp/d-star-terminal-mode-hotspots/
+            - https://davidcappello.com/2020/10/11/experimental-xlx687-reflector-online/[[more-3297]]
+            - https://davidcappello.com/2019/06/01/icom-9700-terminal-mode-with-pistar/
+- Reflectors IP addresses
+    - http://www.pistar.uk/downloads/XLXHosts.txt
+    - google
+        - DCS_Hosts.txt
+        - DExtra_Hosts.txt
+        - DMR_Hosts.txt
+        - DPlus_Hosts.txt
+        - TGList_BM.txt
+        - XLXHosts.txt

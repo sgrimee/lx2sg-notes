@@ -1,0 +1,11 @@
+- Multiple protocols exists to connect repeaters together via the internet. Here is a list of popular protocols and/or networks
+- Networks
+    - [[BrandMeister]]
+    - [[HBLink]]
+    - [[FreeDMR]]
+    - [[YSF]]
+    - [[FCS]]
+    - [[Echolink]]
+    - [[IRLP]]
+    - 
+- Protocols
