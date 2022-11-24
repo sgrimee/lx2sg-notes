@@ -1,4 +1,4 @@
 - https://blog.habets.se/2020/04/APRS.html
 - [[my APRS SSIDs]]
-- APRS [[APRS Packet path]]
+- [[APRS Packet path]]
 - 

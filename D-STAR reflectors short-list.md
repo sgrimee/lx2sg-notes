@@ -16,16 +16,21 @@
             - http://ref084.dstargateway.org/
     - XLX049D
         - QuadNet Northern Ireland
+        - 212.71.234.224
     - XLX208
         - France
             - https://xlx208.f5kav.fr/
+            - 213.186.34.50
     - XLX210
         - Belgium
-            - http://op0p.no-ip.org/xlx/
+            - http://161.97.169.233/xlx/
+            - 161.97.169.233
     - XLX933
         - [France](http://www.dstar-france.fr/les-relais-d-star/reflecteurs/comment-fonctionne-le-xlx933/)
             - http://dcs033.xreflector.net/index.php
+            - 152.228.170.6
 - XRF270B
     - Radioamateurs Luxembourg
         - https://xlx270.epf.lu/
+        - 158.64.26.132
 - 

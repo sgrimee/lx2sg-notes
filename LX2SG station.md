@@ -2,7 +2,7 @@
 - QTH: Senningerberg, Luxembourg
 - Equipment
     - [[FlexRadio 6600]] for HF
-    - [[Icom 9700]] for VHF/UHF and [[D-STAR]]
+    - [[IC-9700]] for VHF/UHF and [[D-STAR]]
     - [[Kenwood TH-D74]] HT for [[D-STAR]]
     - [[Yaesu FT-3DR]] HT for [[C4FM]]
     - [[Radioddity GD-77]] HT with open source firmware [[OpenGD77]] for [[DMR]]
